@@ -1,0 +1,20 @@
+body
+{
+    background-color: #CBC3E3
+}
+
+.c-item {
+    height: 700px;
+    filter: brightness(0.9);
+}
+
+.c-img {
+    height: 100%;
+    object-fit: cover;
+}
+
+.img_f {
+    height: 100px;
+    width: 100px;
+    
+}
